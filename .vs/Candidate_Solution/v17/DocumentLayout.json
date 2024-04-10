@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\accounts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\accounts\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\accounts\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DE65A-ABEA-4BB9-A169-70DD8A6707BD}|CandidateService\\CandidateService.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidateservice\\service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156DE65A-ABEA-4BB9-A169-70DD8A6707BD}|CandidateService\\CandidateService.csproj|solutionrelative:candidateservice\\service\\hraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{156DE65A-ABEA-4BB9-A169-70DD8A6707BD}|CandidateService\\CandidateService.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidateservice\\iservice\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{156DE65A-ABEA-4BB9-A169-70DD8A6707BD}|CandidateService\\CandidateService.csproj|solutionrelative:candidateservice\\iservice\\ihraccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A66A5-76CD-4DDB-A3DD-A94EFEB420AF}|CandidateRepository\\CandidateRepository.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidaterepository\\repository\\hraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A66A5-76CD-4DDB-A3DD-A94EFEB420AF}|CandidateRepository\\CandidateRepository.csproj|solutionrelative:candidaterepository\\repository\\hraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D33A66A5-76CD-4DDB-A3DD-A94EFEB420AF}|CandidateRepository\\CandidateRepository.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidaterepository\\irepository\\ihraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D33A66A5-76CD-4DDB-A3DD-A94EFEB420AF}|CandidateRepository\\CandidateRepository.csproj|solutionrelative:candidaterepository\\irepository\\ihraccountrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D321478B-3EBF-4D11-B916-ED82C7A8E17F}|CandidateDAO\\CandidateDAO.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidatedao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D321478B-3EBF-4D11-B916-ED82C7A8E17F}|CandidateDAO\\CandidateDAO.csproj|solutionrelative:candidatedao\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|c:\\d_tools\\fpt-learn\\hk6_block3w\\prn221\\candidate_solution\\candidate_web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{4A36B79F-FA63-4B57-A1CA-010A6BD6AF81}|Candidate_Web\\Candidate_Web.csproj|solutionrelative:candidate_web\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Error.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Error.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Error.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Error.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:52:13.313Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Index.cshtml.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAkwB0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:36.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Index.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Index.cshtml",
+              "ViewState": "AQIAAC4AAAAAAAAAAAA2wD8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:42:35.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Delete.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Delete.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Delete.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:35.88Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Delete.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Delete.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:42:35.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Details.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Details.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Details.cshtml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Details.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Details.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Details.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:42:35.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Edit.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Edit.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Edit.cshtml.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:35.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Edit.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Edit.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Edit.cshtml",
+              "ViewState": "AQIAABkAAAAAAAAAAAA2wDcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:42:35.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Create.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Create.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Create.cshtml.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAUwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:42:35.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Create.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Create.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Create.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Create.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T02:42:35.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HRAccountService.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateService\\Service\\HRAccountService.cs",
+              "RelativeDocumentMoniker": "CandidateService\\Service\\HRAccountService.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateService\\Service\\HRAccountService.cs",
+              "RelativeToolTip": "CandidateService\\Service\\HRAccountService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA0wBUAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:12:11.928Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IHRAccountService.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateService\\IService\\IHRAccountService.cs",
+              "RelativeDocumentMoniker": "CandidateService\\IService\\IHRAccountService.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateService\\IService\\IHRAccountService.cs",
+              "RelativeToolTip": "CandidateService\\IService\\IHRAccountService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:12:01.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HRAccountRepository.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateRepository\\Repository\\HRAccountRepository.cs",
+              "RelativeDocumentMoniker": "CandidateRepository\\Repository\\HRAccountRepository.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateRepository\\Repository\\HRAccountRepository.cs",
+              "RelativeToolTip": "CandidateRepository\\Repository\\HRAccountRepository.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:11:11.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IHRAccountRepository.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateRepository\\IRepository\\IHRAccountRepository.cs",
+              "RelativeDocumentMoniker": "CandidateRepository\\IRepository\\IHRAccountRepository.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateRepository\\IRepository\\IHRAccountRepository.cs",
+              "RelativeToolTip": "CandidateRepository\\IRepository\\IHRAccountRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:10:58.425Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateDAO\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "CandidateDAO\\HRAccountDAO.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\CandidateDAO\\HRAccountDAO.cs",
+              "RelativeToolTip": "CandidateDAO\\HRAccountDAO.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAxwCAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T02:10:20.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Accounts\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Accounts\\Index.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Accounts\\Index.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Accounts\\Index.cshtml.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAlwCAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:44:11.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Accounts\\Index.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Accounts\\Index.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Accounts\\Index.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Accounts\\Index.cshtml",
+              "ViewState": "AQIAACsAAAAAAAAAAAAAADgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T01:44:11.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Login.cshtml",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Login.cshtml",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Login.cshtml",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Login.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-04-10T01:42:21.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml.cs",
+              "DocumentMoniker": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Login.cshtml.cs",
+              "RelativeDocumentMoniker": "Candidate_Web\\Pages\\Login.cshtml.cs",
+              "ToolTip": "C:\\D_Tools\\FPT-Learn\\HK6_Block3W\\PRN221\\Candidate_Solution\\Candidate_Web\\Pages\\Login.cshtml.cs",
+              "RelativeToolTip": "Candidate_Web\\Pages\\Login.cshtml.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-10T01:41:35.473Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

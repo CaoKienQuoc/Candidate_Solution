@@ -1,0 +1,15 @@
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\bin\Debug\net6.0\CandidateDAO.deps.json
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\bin\Debug\net6.0\CandidateDAO.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\bin\Debug\net6.0\CandidateDAO.pdb
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.AssemblyInfoInputs.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.AssemblyInfo.cs
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.csproj.CoreCompileInputs.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\refint\CandidateDAO.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.pdb
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\ref\CandidateDAO.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\bin\Debug\net6.0\BussinessObject.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\bin\Debug\net6.0\BussinessObject.pdb
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\CandidateDAO.csproj.AssemblyReference.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\CandidateDAO\obj\Debug\net6.0\Candidat.C78AE0F1.Up2Date

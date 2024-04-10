@@ -1,0 +1,84 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Candidate_Web
+build_property.RootNamespace = Candidate_Web
+build_property.ProjectDir = C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\Candidate_Web\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\Candidate_Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Accounts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Accounts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Accounts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Accounts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Accounts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/D_Tools/FPT-Learn/HK6_Block3W/PRN221/Candidate_Solution/Candidate_Web/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-32o59faocy

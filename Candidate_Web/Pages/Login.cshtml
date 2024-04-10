@@ -1,0 +1,24 @@
+﻿@page "/Login"
+@model Candidate_Web.Pages.LoginModel
+@{
+    ViewData["Title"] = "Login Page";
+    var message = TempData["message"];
+    var userRole = HttpContext.Session.GetString("UserRole");
+}
+
+<form method="post">
+    <input type="text" asp-for="Email" placeholder="Input your Email" />
+    <input type="password" asp-for="Password" placeholder="Input your Password" />
+    <input type="submit" value="Login" />
+    
+</form>
+
+@if (userRole == "3")
+{
+    <div>
+        @message
+    </div>
+}
+
+
+

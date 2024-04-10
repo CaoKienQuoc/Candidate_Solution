@@ -1,0 +1,14 @@
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.deps.json
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.runtimeconfig.json
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\bin\Debug\net6.0\BussinessObject.pdb
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.AssemblyReference.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.GeneratedMSBuildEditorConfig.editorconfig
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfoInputs.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.AssemblyInfo.cs
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.csproj.CoreCompileInputs.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\refint\BussinessObject.dll
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.pdb
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\BussinessObject.genruntimeconfig.cache
+C:\D_Tools\FPT-Learn\HK6_Block3W\PRN221\Candidate_Solution\BussinessObject\obj\Debug\net6.0\ref\BussinessObject.dll
